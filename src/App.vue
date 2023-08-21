@@ -1,6 +1,5 @@
 <template>
-  <div>Hello from app</div>
-  <HelloWorld msg="Vite + Vue" />
+  <RouterView />
 </template>
 
 <script setup></script>
